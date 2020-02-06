@@ -1,7 +1,7 @@
 {
-  "version": "1.10.7",
-  "name": "babel-plugin-styled-components",
-  "description": "Improve the debugging experience and add server-side rendering support to styled-components",
+  "version": "1.10.8",
+  "name": "@univision/babel-plugin-styled-components",
+  "description": "Improve the debugging experience and add server-side rendering support to styled-components with prefix fix",
   "repository": "styled-components/babel-plugin-styled-components",
   "contributors": [
     "Vladimir Danchenkov <vladimir.danchenkov@gmail.com>",
